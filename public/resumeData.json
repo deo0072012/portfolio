@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": "DEV PRAKASH",
+    "name1": "SAWAGISMINI JENA",
+    "occupation": "FULL STACK DEVELOPERS AND ENTREPRENEUR",
+    "description": "Full Stack Developer And A Good Human Being",
+    "image": "deo1.jpg",
+    "image1": "s.jpg",
+    "bio": "We Are a Team of Coders , Dev is Full Stack ReactJS Developer. Currently he is working with his team of developers",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "freetolance247@gmail.com",
+    "phone": "91 8886633049",
+    "address": {
+      "street": "Baiyappanahalli",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560093"
+    },
+    "website": "http://freetolance247.com",
+    "resumedownload": "http://freetolance247.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/freetolance247",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/freetolance247/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/freetolance247/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/freetolance247",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "SOME OF OUR SKILLS ",
+    "education": [
+      {
+        "school": "CDAC",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "PG",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "JavaScript/Angular Specialist",
+        "years": "May 2019 - Present",
+        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+      },
+      {
+        "company": "Freelancer",
+        "title": "Founder / Developer",
+        "years": "Jan 2019 - Present",
+        "description": "Helping businesses showing their best selves to clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "java",
+        "level": "80%"
+      },
+      {
+        "name": "Angular",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "WordPress",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "ecommerce with React js",
+        "category": "Ecommerce Dashboard",
+        "image": "s1.jpg"
+        
+      },
+      {
+        "title": "Dashboard with react js",
+        "category": "Charts and pie graphs in react js",
+        "image": "y.jpg"
+        
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "When it comes to the development then no other guys can beat them in the developement . These guys are awsome when it comes to the freelancing . They are the Sun of the freelancing solar system.",
+        "user": "Kevin Joseph"
+      },
+      {
+        "text": "That Dev must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Geeta "
+      }
+    ]
+  }
+}
