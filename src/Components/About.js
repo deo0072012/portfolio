@@ -66,7 +66,7 @@ class About extends Component {
                            <span>{street}<br />
                               {city} {state}, {zip}
                            </span><br />
-                           <span>{phone}</span><br />
+                           <span>{"91 7992886203"}</span><br />
                            <span>freetolance247@gmail.com</span>
                         </p>
                      </div>

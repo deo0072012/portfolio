@@ -36,7 +36,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/freetolance247",
+        "url": "https://github.com/deo0072012",
         "className": "fa fa-github"
       }
     ]
@@ -104,6 +104,18 @@
         "title": "Dashboard with react js",
         "category": "Charts and pie graphs in react js",
         "image": "y.jpg"
+        
+      },
+      {
+        "title": "Dashboard with Wordpress",
+        "category": "woocommerce application",
+        "image": "a.jpeg"
+        
+      },
+      {
+        "title": "Data scrapping using ui path",
+        "category": "Data scrapping",
+        "image": "b.jpeg"
         
       }
     ]
