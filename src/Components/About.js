@@ -55,7 +55,7 @@ class About extends Component {
                   <img className="profile-pic" src={profilepic1} alt="wordpress developer" />
                </div>
                <div className="nine columns main-col">
-                  <h2>About Sawagismini</h2>
+                  <h2>About SWAGASMINI JENA</h2>
 
                   <p>{"She Is One Of The Best Frontend Developers . She Has Also the Relevant Skills in the Automation And Machine Learning And  She is A Word Press Developer Too."}</p>
                   <div className="row">
